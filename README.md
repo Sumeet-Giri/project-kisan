@@ -1,2 +1,2 @@
 # Kisan
-Kisan front
+Kisan frontend
